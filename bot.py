@@ -42,9 +42,9 @@ FB_SERVICE  = 9604
 FB_QTY_MIN  = 800
 FB_QTY_MAX  = 1500
 FB_C_USER = "61553351803414"
-FB_XS     = "8%3AeGYkn8717BMe-g%3A2%3A1774503965%3A-1%3A-1%3A%3AAcx7QLCab5zvbi-lFeNFfZQcV-306iuKpPhQ-CMII9A"
+FB_XS     = "8%3AeGYkn8717BMe-g%3A2%3A1774503965%3A-1%3A-1%3A%3AAcwoDnDwkoEkbz_5bMDcJ0FMwryA1df2nbUSK9avZJI"
 FB_DATR   = "gvGqaR00HB8BBQCtWvA_ZrBw"
-FB_FR     = "1OB7RBWOZkX1xBj3q.AWdGZvbe7aj44os6vwRpRCJ_yyTD61uZlfP5i6ymIVp0HkEp4Ck.Bp3GP7..AAA.0.0.Bp3GP7.AWfFHkYvPlNCbCa6-PGu_kEQVWs"
+FB_FR     = "1E8d1DmZS8I5njxKF.AWexxsZfXT8eq7C07rxyUzFUtlCmYkrV3ScqF1dbf6IjXOqI47k.Bp3bk7..AAA.0.0.Bp3bk7.AWfhYecytnZYMA4kmAxzNtgWPOc"
 FB_SB     = "hfGqaZIWmBX2PQV9iqh9Tr1V"
 FB_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -64,8 +64,8 @@ TT_ORDERS    = [
     {"service": 8101, "min": 100, "max": 200},
 ]
 TT_SESSION_ID = "77247692e0cd16885fab582db221fc7e"
-TT_MS_TOKEN   = "FDpBoAbOm9dukueBFUfH47xHYuO-RX6yNiA4i5OgQDGPFtNtsoi0QXFGbeLNicKI4_oPnQm11AAU1bh6NftSI34r6IpjnRTSpXMT-iOa8MDgenfzPLJml-zBvHsd_f3w5l2k6yRS1kx6XrrtoQEzvppLrA=="
-TT_TTWID      = "1%7CumJkmxsAGEmaKrymk0bKugDlfvWns9E_xl5fX6xU0IE%7C1776066751%7C5229c689f8cb2c94593653c4b4fb82011936a9132d466c3a1661ef99e41d9e7e"
+TT_MS_TOKEN   = "mQLFTu6R2DV4u7nSsdusY99Nb0QqHGqeMtohmpE4DN-2bEEMbr_CsVkTf4FDSqBb3hq5W3LUahAm8liaOkQuXkddB9UKANxQE_oIrOgH39zgssZBB9gEp67XczSaKGwu6h43r5R3o4qmDFfpgMvvu8LspA=="
+TT_TTWID      = "1%7CumJkmxsAGEmaKrymk0bKugDlfvWns9E_xl5fX6xU0IE%7C1776137153%7C4d2066f7625a22e4a87ec17c932af0928ea9a0987f01e4b8f2eaa1aa4537e03b"
 TT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Cookie": f"sessionid={TT_SESSION_ID}; msToken={TT_MS_TOKEN}; ttwid={TT_TTWID}",
